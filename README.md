@@ -2,6 +2,10 @@
 Used to integrate OpenAI GPT-4, Antrhopic Claude, Google Gemini & Cohere Command-r in [Smart Connections](https://github.com/brianpetro/obsidian-smart-connections).
 
 ## SmartChatModel Usage Guide
+```bash
+npm install smart-chat-model
+```
+
 `SmartChatModel` is a comprehensive class designed to facilitate interactions with chat models, supporting features like streaming responses, handling tool calls, and customizing requests through adapters. It's built to be adaptable for various chat model configurations and platforms.
 The SmartChatModel class provides a flexible and powerful way to interact with chat models, supporting advanced features like streaming, tool calls, and request customization. By following this guide, you should be able to integrate and use SmartChatModel effectively in your projects.
 

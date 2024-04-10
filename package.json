@@ -1,6 +1,6 @@
 {
   "name": "smart-chat-model",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "no-nonsense adapter for Anthropic Claude, Google Gemini, Cohere & more with OpenAI style API interface.",
   "main": "smart_chat_model.js",
   "scripts": {
